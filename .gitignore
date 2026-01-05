@@ -213,3 +213,8 @@ data/
 *.zip
 kaggle.json
 kaggle.json
+
+# --- My Custom Rules ---
+data/
+*.zip
+kaggle.json
