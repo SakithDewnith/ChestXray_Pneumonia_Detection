@@ -211,3 +211,5 @@ data/
 # --- My Custom Rules ---
 data/
 *.zip
+kaggle.json
+kaggle.json
